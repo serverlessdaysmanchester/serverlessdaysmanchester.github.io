@@ -46,7 +46,7 @@ body {
     position: relative;
     height: 38vh;
     min-height: 38vh;
-    background: url('background.webp') no-repeat center center;
+    background: url('background2.webp') no-repeat center center;
     background-size: cover;
 }
 .date {
