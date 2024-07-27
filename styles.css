@@ -64,7 +64,7 @@ body {
 }
 .content h2, .content p {
     max-width: 900px;
-    margin: 2vh auto;
+    margin: 1.5vh auto;
 }
 .content p {
     font-size: 1.1em;
