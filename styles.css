@@ -94,3 +94,10 @@ body {
     padding: 20px;
     text-align: center;
 }
+
+.responsive-img {
+    max-height: 200px;
+    max-width: 100%;
+    height: auto;
+    width: auto;
+}
