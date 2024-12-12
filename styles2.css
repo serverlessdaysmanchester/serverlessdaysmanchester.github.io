@@ -66,6 +66,10 @@ body {
     max-width: 900px;
     margin: 1.5vh auto;
 }
+.sessionize-loader {
+    max-width: 900px;
+    margin: 1.5vh auto;
+}
 .content p {
     font-size: 1.1em;
 }
@@ -138,7 +142,7 @@ body {
 }
 
 .sponsor-img {
-    margin: 0 20px;
+    margin: 5px 20px;
     max-width: 230px;
     min-width: 100px;
     min-height: 55px;
